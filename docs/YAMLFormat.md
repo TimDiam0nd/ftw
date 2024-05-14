@@ -288,7 +288,7 @@ data
 
 **Syntax:** ```data: "<string|YAML list>"```
 
-**Example Usage (string):** ```data: "xyz=123"``
+**Example Usage (string):** ```data: "xyz=123"```
 
 **Example Usage (list):**
 ```
